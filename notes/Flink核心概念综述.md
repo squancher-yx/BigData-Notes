@@ -29,7 +29,7 @@ Flink 有界数据流和无界数据流：
 <div align="center"> <img width="600px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/flink-bounded-unbounded.png"/> </div>
 
 
-
+ 
 
 Spark Streaming 数据流的拆分：
 
