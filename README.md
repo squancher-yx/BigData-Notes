@@ -2,8 +2,7 @@
 
 
 
-<div align="center"> <img width="444px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/bigdata-notes-icon.png"/> </div>
-<br/>
+
 
 **大数据入门指南**
 
@@ -41,11 +40,7 @@
   </table>
 <br/>
 
-<div align="center">
-	<a href = "https://github.com/heibaiying/Full-Stack-Notes"> 
-	<img width="150px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/weixin.jpg"/> 
-	</a> 
-</div>
+
 
 <br/>
 
