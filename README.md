@@ -77,6 +77,7 @@
 8. [Hive 视图和索引](notes/Hive视图和索引.md)
 9. [Hive 常用 DML 操作](notes/Hive常用DML操作.md)
 10. [Hive 数据查询详解](notes/Hive数据查询详解.md)
+11. [Hive 内置函数](notes/Hive内置函数.md)
 
 ## 三、Spark
 
